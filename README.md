@@ -1,4 +1,6 @@
 ### Hi there 👋
+2021/8/1
+![](https://count.getloli.com/get/@zxmacc?theme=gelbooru)
 
 <!--
 **zxmacc/zxmacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
